@@ -1,0 +1,19 @@
+/* CSS for transfer page */
+
+button{
+    margin: auto;
+    display: block;
+    background-color: #4d0422;
+    padding: 1%;
+    font-weight: bold;
+
+}
+button:hover{
+    background-color: #d1a209;
+}
+label{
+    font-size: xx-large;
+    padding: 1%;
+    margin-right: 1%;
+
+}

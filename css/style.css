@@ -1,0 +1,128 @@
+/*
+    css file
+*/
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+.img_responsive{
+    width: 80%;
+}
+.text-right{
+    text-align: right;
+}
+.clearfix{
+    clear: both;
+    float: none;
+}
+a{
+    color: #250813;
+    text-decoration: none;
+}
+a:hover{
+    color: #6D214F;
+}
+
+
+/* CSS for navbar section*/
+.LogoImage{
+   
+    width: 10%;
+    float: left;
+}
+.menu{
+    line-height: 100px;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 2%;
+    font-weight: bold;
+}
+.Navbar{
+    background-color: #550583;
+}
+/* CSS for Main content*/
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h2{
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+/* CSS for More*/
+.text-center{
+    text-align: center;
+    margin-bottom: 2%;
+}
+.More{
+    background-color: #5e56bb;
+}
+/* CSS for boxes */
+.Box3{
+    
+    text-align: center;
+    margin: 1%;
+    padding: 2%;
+    width: 60%;
+    float: right;
+    margin-bottom: 2%;
+}
+.Box{
+    margin-bottom: 2% 0 ;
+    float: left;
+    width: 30%;
+}
+/* CSS for Customers page */
+
+.tbl-full{
+    width: 100%;
+    
+}
+table tr th{
+    padding: 1%;
+    text-align: center;
+    background-color: #D6A2E8;
+    font-size: large;
+}
+table tr td{
+    padding: 1%;
+    text-align: center;
+    background-color: #dff9fb;
+}
+.btn{
+    background-color: #ff6b81;
+    padding: 3%;
+    color: black;
+}
+.btn:hover{
+    background-color: #ff4757;
+}
+.customer{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+/* CSS for transaction page */
+.transaction{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
